@@ -17,3 +17,4 @@ cd instagram-mass-report
 pip install -r requirement.txt
 python reportbot.py
 ```
+If you want to increase number of attacks then change the range in profile attack
